@@ -1,0 +1,12 @@
+git init
+git remote add origin https://github.com/erbc111/Repo_test.git
+git status
+git add .
+git commit -m "cargado tes.pt"
+git config --global user.email "erbc111@gmail.com"
+git config --global user.name "Eris Blanco"   
+git commit -m "cargado test.py"
+git push --set-upstream origin master
+git push
+
+https://www.youtube.com/watch?v=44ziZ12rJwU
